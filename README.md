@@ -15,3 +15,9 @@ arquivo: dimensoes.py
 Escreva a função  **soma_matrizes(m1, m2)**  que recebe 2 matrizes e devolve uma matriz que represente sua soma caso as matrizes tenham dimensões iguais. Caso contrário, a função deve devolver False.
 
 arquivo: soma.py
+
+## Exercício 4: Leitura de matrizes do usuario
+
+O usuário deve inserir  a quantidade de linhas e de colunas da matriz e então o programa solicitará os valores para preencher na matriz.
+
+arquivo: 4. le_matriz.py
