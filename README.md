@@ -44,3 +44,11 @@ Quando houver mais de um nome com o menor comprimento dentre os nomes na lista, 
 > menor_nome(['maria', ' josé  ', '  PAULO', 'Catarina  ')
 > menor_nome(['Bárbara', 'JOSÉ  ', 'Bill'])
 > Resposta: Deve devolver 'José' ```
+
+
+### Strings, funções com números reais e exercícios
+
+- [Strings e arquivos](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula13.html):  
+- [Mais funções com números reais](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula14.html)
+- [Mais funções com reais](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula15.html)
+- [Exercícios](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula16.html)
