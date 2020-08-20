@@ -78,8 +78,8 @@ t.perimetro()
 # deve devolver um inteiro correspondente ao valor do perímetro do triângulo.
 ```
 
-> Escreva o metodo tipo_lado() que devolve uma string dizendo se o triângulo é: isósceles (dois lados iguais), equilátero (todos os lados iguais), escaleno (todos os lados diferentes).
-> **Arquivo**: triangulos.py
+    > Escreva o metodo tipo_lado() que devolve uma string dizendo se o triângulo é: isósceles (dois lados iguais), equilátero (todos os lados iguais), escaleno (todos os lados diferentes).
+    > **Arquivo**: triangulos.py
 
 ## 4. Ordenação
 
